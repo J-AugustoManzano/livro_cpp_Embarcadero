@@ -2,7 +2,7 @@
 >Guia de Introdução para iniciantes
 
 Este repositório agrega os programas fonte do livro indicado. 
-Apesar de seu acesso público este material somente pode ser usado pelas pessoas que tenham feito a aquisição comercial da obra.
+Apesar de seu acesso público este material somente pode ser usado pelas pessoas que tenham feito a aquisição comercial da obra junto a plataforma "[Clube de Autores](https://clubedeautores.com.br/livro/embarcadero-c)".
 
 Neste livro o leitor tem acesso a extenso conjunto de programas exemplos que demonstram vários recursos da linguagem de programação de computadores C++ dentro do padrão internacional ISO/IEC 14.882:2011. 
 
