@@ -4,6 +4,8 @@
 Este repositório agrega os programas fonte do livro indicado. 
 Apesar de seu acesso público este material somente pode ser usado pelas pessoas que tenham feito a aquisição comercial da obra junto a plataforma "[Clube de Autores](https://clubedeautores.com.br/livro/embarcadero-c)".
 
+![Livro Embarcadero C++](https://github.com/J-AugustoManzano/imagens/blob/main/CapaEmbarcaderoCpp.png)
+
 Neste livro o leitor tem acesso a extenso conjunto de programas exemplos que demonstram vários recursos da linguagem de programação de computadores C++ dentro do padrão internacional ISO/IEC 14.882:2011. 
 
 O capítulo 1 fornece um histórico da linguagem de programação C++, comenta o padrão C++ internacional, indica a notação utilizada na obra para representar as instruções da linguagem, além de apresentar o produto GCC e sua aquisição.
